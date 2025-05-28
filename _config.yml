@@ -5,6 +5,13 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
+# 在文件开头添加主题配置
+theme: beautiful-jekyll-theme
+
+# 确保以下配置正确
+baseurl: ""
+url: "https://zhangxiaojie56.github.io"
+
 ############################
 # --- Required options --- #
 ############################
